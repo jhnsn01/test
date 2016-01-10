@@ -1,1 +1,1 @@
-Some work done on Master.
+Some work done on the merge of Master and alternative 1 branch.

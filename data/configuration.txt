@@ -1,1 +1,1 @@
-This is the configuration file on Master.
+This is the configuration file from Master modified for alternative 1.
